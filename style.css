@@ -1,0 +1,36 @@
+        header {
+           text-align: center;
+           padding:10px;
+        }
+
+        .title {
+            color:rgb(237, 8, 8);
+        }
+        body {
+
+        }
+        
+        .logo {
+            width: 200px;
+            
+        }
+
+        .Table {display: table;
+	width: 100%;}
+        
+        .cell {
+            border: 1px solid #999999;
+            width:25%;
+        }
+        
+        .row {
+	        display: flex;
+            }
+        
+        .cell {
+            margin:20px;
+            padding:10px;
+            text-align: center;
+        }
+
+       .cake {width: 200px}
